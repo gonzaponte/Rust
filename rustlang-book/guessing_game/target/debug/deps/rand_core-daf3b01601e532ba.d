@@ -1,0 +1,12 @@
+/home/gonzalo/sw/git/Rust/rustlang-book/guessing_game/target/debug/deps/rand_core-daf3b01601e532ba.rmeta: /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs
+
+/home/gonzalo/sw/git/Rust/rustlang-book/guessing_game/target/debug/deps/librand_core-daf3b01601e532ba.rlib: /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs
+
+/home/gonzalo/sw/git/Rust/rustlang-book/guessing_game/target/debug/deps/rand_core-daf3b01601e532ba.d: /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs /home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs
+
+/home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/lib.rs:
+/home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/block.rs:
+/home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/error.rs:
+/home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/impls.rs:
+/home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/le.rs:
+/home/gonzalo/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.2/src/os.rs:
